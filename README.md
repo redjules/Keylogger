@@ -25,7 +25,7 @@ We open now the notepad to write some notes:
 ![Screenshot 2024-02-19 at 10 10 35](https://github.com/redjules/Keylogger/assets/106017493/634fcdf3-7da1-42d7-bcbd-37b87265c1c6)
 
 
-and the information you write is logged to my server on the internet! and the web interface:
+and the information you write is logged to my server on the internet and the web interface!:
 
 ![Screenshot 2024-02-19 at 10 11 20](https://github.com/redjules/Keylogger/assets/106017493/63e77922-81e8-46c1-90d2-a124d3b369d5)
 
